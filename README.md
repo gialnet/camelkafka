@@ -1,2 +1,2 @@
-# camelkafka
-Read a KAfka topic from Camel route
+# Camel Kafka
+Read a Kafka topic from Camel route
